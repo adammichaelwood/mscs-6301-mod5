@@ -1,5 +1,7 @@
 # mscs-6301-mod5
 
+School assignment
+
 ## Getting Started
 
 A Java program that reads a list of Integer numbers from the scanned input 
